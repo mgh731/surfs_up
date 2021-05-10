@@ -12,11 +12,11 @@ We first filtered the data for the month's that we were interested in, then conv
 
 Below are the results for June and December temperatures. 
 
-![June_Temps](/surfs_up/June_Temps.PNG)
+![June_Temps](/June_Temps.PNG)
 
 
 
-![December_Temps](/analysis/December_Temps.PNG)
+![December_Temps](/December_Temps.PNG)
 
 
 As you can tell, the numbers for both June and December do not vary too much despite the significantly different time of year that they are in. Also the Standard Deviation and percentiles are similar in the two tables signifying that there is not a big difference in temperatures between these two months. 
