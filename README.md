@@ -24,4 +24,6 @@ As you can tell, the numbers for both June and December do not vary too much des
 The one outstanding difference is the minimum temperature for December being 56 degrees vs the minimum temperature in June being 64 degrees. Assuming that 25% of the values for December fall under 69 degrees per the table, we are likely to expect more days where the temperature is this low in December. 
 
 # Summary
-Because these tables show a slight but not entirely dramatic difference between the temperature between June and December months it is not likely this should stop the ice cream and surf shop. 
+Because these tables show a slight but not entirely dramatic difference between the temperature between June and December months it is not likely this should stop the ice cream and surf shop. This data should be analyzed alongside precipitation data to determine how not just temperature, but rain may effect the quality of the whether for these months. 
+
+In addition, as a next step, we may consider doing similar analysis on other months to determine if a planned closure or limited hours for certain months of the year may reduce the risk of business being washed away by bad weather. 
